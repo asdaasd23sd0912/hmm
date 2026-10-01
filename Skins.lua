@@ -25841,6 +25841,20 @@ return {
                         Volume = 1,
                     },
                 },
+                {
+                    Class = "Attachment",
+                    Id = 4,
+                    Name = "CustomAttachment",
+                    Props = {
+                        RelCF = CFrame.new(0.1299, 0, 0.075, 0.00002, -0.5, -0.86603, 1, -0.00004, 0.00005, -0.00006, -0.86603, 0.5),
+                    },
+                },
+                {
+                    Class = "RigidConstraint",
+                    Id = 5,
+                    Name = "RigidConstraint",
+                    Props = {},
+                },
             },
             Class = "MeshPart",
             Id = 1,
