@@ -19662,6 +19662,7 @@ return {
         },
     },
     Gingerscope = {
+        Hold = "rbxassetid://15666234025",
         Complete = true,
         Display = {
             {
@@ -19821,6 +19822,7 @@ return {
         },
     },
     Gingerscope_Blue = {
+        Hold = "rbxassetid://15666234025",
         Complete = true,
         Display = {
             {
@@ -19979,6 +19981,7 @@ return {
         },
     },
     Gingerscope_Bronze = {
+        Hold = "rbxassetid://15666234025",
         Complete = true,
         Display = {
             {
@@ -20137,6 +20140,7 @@ return {
         },
     },
     Gingerscope_Gold = {
+        Hold = "rbxassetid://15666234025",
         Complete = true,
         Display = {
             {
@@ -20270,6 +20274,7 @@ return {
         },
     },
     Gingerscope_Silver = {
+        Hold = "rbxassetid://15666234025",
         Complete = true,
         Display = {
             {
